@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mobile Device 2023</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="empty_activity_label">Empty Activity</string>
+    <string name="next_fragment">Next Fragment</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="explicit_intent">Explicit Intent</string>
+    <string name="notification">Notification</string>
+    <string name="broadcast_receiver">Broadcast Receiver</string>
+    <string name="service">Service </string>
+    <string name="alarm_manager">Alarm Manager</string>
+    <string name="handler">Handler</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".FirstFragment">
+
+
+    <Button
+        android:id="@+id/button_explicit_intent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/explicit_intent" />
+
+    <Button
+        android:id="@+id/button_implicit_intent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/implicit_intent" />
+
+    <Button
+        android:id="@+id/button_notification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/notification" />
+
+    <Button
+        android:id="@+id/button_broadcast_receiver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/broadcast_receiver" />
+
+    <Button
+        android:id="@+id/button_service"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/service" />
+
+    <Button
+        android:id="@+id/button_alarm_manager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/alarm_manager" />
+
+    <Button
+        android:id="@+id/button_handler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/handler" />
+</LinearLayout>
